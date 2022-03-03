@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-echo "School"
-=======
-Alx
-echo "this school is open"
-
->>>>>>> update_script
+echo "The school is open!"
